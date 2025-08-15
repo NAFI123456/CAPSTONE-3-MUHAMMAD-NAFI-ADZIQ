@@ -128,7 +128,7 @@ Future improvements could involve:
 
 ## Files in Repository
 - `CAPSTONE 3 MUHAMMAD NAFI ADZIQ.ipynb` – Main analysis & modeling notebook.
-- `data_saudi_used_cars.csv` – Raw dataset (if included).
+- `data_saudi_used_cars.csv` – Raw dataset.
 - `README.md` – Project documentation.
 
 ---
